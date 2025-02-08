@@ -14,7 +14,7 @@ function Footer() {
                       </div>
                       <div>
                           <p className="text-sm text-gray-100">
-                              &copy; Copyright 2025 | All Rights Reserved by Pictoria.
+                              &copy; Copyright 2025 | All Rights Reserved by BlogX.
                           </p>
                       </div>
                   </div>
